@@ -13,7 +13,7 @@ ___
 
 ### 1. **Find an available .html file**
 1. Click on a .html file, for example 100.html.
-<img width="1163" alt="image" src="https://user-images.githubusercontent.com/61100293/217881817-4635b2ed-769c-45cf-9293-4e74c9963056.png">
+<img width="1166" alt="image" src="https://user-images.githubusercontent.com/61100293/217882252-7763b3c1-a542-4de1-ab7e-bf9015ae16bb.png">
 
 2. Find the line that has the a href= 
 <img width="1265" alt="image" src="https://user-images.githubusercontent.com/61100293/217854582-76dedc8a-04f0-42bf-a427-2d36c0b17b8d.png">
