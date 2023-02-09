@@ -34,7 +34,7 @@ ___
 2. Click on one Issue.
 3. The issue should have a written note or a comment as to which ULAL QR Code or the .html link it is currently assigned to. 
 4. If you can't find the .html link, then comment on the task to inform the Admin you're working on this issue of finding the .html link from ULAL.
-5. Figure out and comment the .html link from <a href="https://github.com/WorldEnterpriseGroup/ulal/tree/gh-pages">ULAL</a> to this Issue.
+5. Figure out and comment the .html link from <a href="https://github.com/WorldEnterpriseGroup/ulal/tree/gh-pages">ULAL</a> to this Issue, if you can.
 6. Copy the link of the issue by following the steps in the photo
 <img width="1193" alt="image" src="https://user-images.githubusercontent.com/61100293/217879806-235b7db1-c90f-4f37-9a12-fe726139948e.png">
 7. Go to the ULAL .html issue and click edit.
