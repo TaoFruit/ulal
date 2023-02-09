@@ -22,4 +22,5 @@ ___
 1. Find a property to work on its Issues at https://github.com/orgs/United-Home/repositories . For example, the Issues at <a href="https://github.com/United-Home/2405-45th-St/issues"> 2405-45th-St </a>
 <img width="798" alt="image" src="https://user-images.githubusercontent.com/61100293/217858482-0886d55a-a136-45da-bd30-942407ccdb0a.png">.
 
-2. 
+2. The issue should have a written note or a comment as to which ULAL QR Code it is currently assigned to. 
+3. If you can't find the designated QR Code, then comment on the task to inform the Admin you're working on this issue of integrating. Or you can help by figuring it out yourself and comment the QR Code.
