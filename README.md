@@ -25,12 +25,19 @@ ___
 
 ### 2. **Link a GitHub Issue** 
 1. Find a United Home property to work on its Issues at https://github.com/orgs/United-Home/repositories . For example, the Issues at <a href="https://github.com/United-Home/2405-45th-St/issues"> 2405-45th-St </a>
+
 <img width="798" alt="image" src="https://user-images.githubusercontent.com/61100293/217858482-0886d55a-a136-45da-bd30-942407ccdb0a.png">.
 
 2. Click on one Issue.
 3. The issue should have a written note or a comment as to which ULAL QR Code or the .html link it is currently assigned to. 
 4. If you can't find the .html link, then comment on the task to inform the Admin you're working on this issue of finding the .html link from ULAL.
 5. Figure out and comment the .html link from <a href="https://github.com/WorldEnterpriseGroup/ulal/tree/gh-pages">ULAL</a> to this Issue.
-6. Copy the link of the issue by,
+6. Copy the link of the issue by following the steps in the photo
+<img width="1193" alt="image" src="https://user-images.githubusercontent.com/61100293/217879806-235b7db1-c90f-4f37-9a12-fe726139948e.png">
+7. Go to the ULAL .html issue and click edit.
+<img width="1580" alt="image" src="https://user-images.githubusercontent.com/61100293/217881237-465714f1-6a58-40a4-aa09-e9ede783eb11.png">
 
-7. When you know which Issue and which .html link to work on, go back to the .html file
+8. Insert this link to the ULAL .html issue body you're working on. There are two areas you're going to paste this link.
+<img width="1265" alt="image" src="https://user-images.githubusercontent.com/61100293/217880781-2365780a-357a-416e-8b77-9fa514d82710.png">
+9. Save Changes.
+10. DONE
