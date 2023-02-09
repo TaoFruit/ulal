@@ -8,5 +8,12 @@ ___
 
 ### 1. **Find an available .html file**
 1. Click on a .html file, for example 100.html.
-2. Find the line that has the "a href= "
-3. Copy the link inside for example the link https://github.com/United-Home/2405-45th-St/issues/3
+2. Find the line that has the a href= 
+<img width="1265" alt="image" src="https://user-images.githubusercontent.com/61100293/217854582-76dedc8a-04f0-42bf-a427-2d36c0b17b8d.png">
+
+3. Copy the link inside the quotation area.
+<img width="1259" alt="image" src="https://user-images.githubusercontent.com/61100293/217855172-9b4c0137-0ae8-46b1-9b0c-42e0f88c5ada.png">
+
+4. Open a new tab and paste the link.
+5. Check if the issue in the link is "Close".
+6. If the issue is close then the 100.html file is available to link to another issue.
