@@ -13,6 +13,8 @@ ___
 
 ### 1. **Find an available .html file**
 1. Click on a .html file, for example 100.html.
+<img width="1163" alt="image" src="https://user-images.githubusercontent.com/61100293/217881817-4635b2ed-769c-45cf-9293-4e74c9963056.png">
+
 2. Find the line that has the a href= 
 <img width="1265" alt="image" src="https://user-images.githubusercontent.com/61100293/217854582-76dedc8a-04f0-42bf-a427-2d36c0b17b8d.png">
 
@@ -21,7 +23,8 @@ ___
 
 4. Open a new tab and paste the link.
 5. Check if the issue in the link is "Close".
-6. If the issue is close then the 100.html file is available to link to another issue.
+6. If the issue is closed then the 100.html file is available to link to another issue.
+7. If it is open, then move on and find another .html file.
 
 ### 2. **Link a GitHub Issue** 
 1. Find a United Home property to work on its Issues at https://github.com/orgs/United-Home/repositories . For example, the Issues at <a href="https://github.com/United-Home/2405-45th-St/issues"> 2405-45th-St </a>
