@@ -37,7 +37,7 @@ ___
 5. Figure out and comment the .html link from <a href="https://github.com/WorldEnterpriseGroup/ulal/tree/gh-pages">ULAL</a> to this Issue, if you can.
 6. Copy the link of the issue by following the steps in the photo
 <img width="1193" alt="image" src="https://user-images.githubusercontent.com/61100293/217879806-235b7db1-c90f-4f37-9a12-fe726139948e.png">
-7. Go to the ULAL .html issue and click edit.
+7. Go to the ULAL .html issue you're working, for example 100.html, and click edit.
 <img width="1580" alt="image" src="https://user-images.githubusercontent.com/61100293/217881237-465714f1-6a58-40a4-aa09-e9ede783eb11.png">
 
 8. Insert this link to the ULAL .html issue body you're working on. There are two areas you're going to paste this link. Paste it inside the quotations.
