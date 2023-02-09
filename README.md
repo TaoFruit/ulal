@@ -17,3 +17,5 @@ ___
 4. Open a new tab and paste the link.
 5. Check if the issue in the link is "Close".
 6. If the issue is close then the 100.html file is available to link to another issue.
+
+### 2. **Link a GitHub Issue** 
