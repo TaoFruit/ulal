@@ -31,7 +31,7 @@ ___
 
 <img width="798" alt="image" src="https://user-images.githubusercontent.com/61100293/217858482-0886d55a-a136-45da-bd30-942407ccdb0a.png">.
 
-2. Click on one Issue.
+2. Click on one Issue. For example, Electric Modification, Issue #9
 3. The issue should have a written note or a comment as to which ULAL QR Code or the .html link it is currently assigned to. 
 4. If you can't find the .html link, then comment on the task to inform the Admin you're working on this issue of finding the .html link from ULAL.
 5. Figure out and comment the .html link from <a href="https://github.com/WorldEnterpriseGroup/ulal/tree/gh-pages">ULAL</a> to this Issue, if you can.
