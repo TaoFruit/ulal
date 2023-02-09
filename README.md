@@ -24,8 +24,13 @@ ___
 6. If the issue is close then the 100.html file is available to link to another issue.
 
 ### 2. **Link a GitHub Issue** 
-1. Find a property to work on its Issues at https://github.com/orgs/United-Home/repositories . For example, the Issues at <a href="https://github.com/United-Home/2405-45th-St/issues"> 2405-45th-St </a>
+1. Find a United Home property to work on its Issues at https://github.com/orgs/United-Home/repositories . For example, the Issues at <a href="https://github.com/United-Home/2405-45th-St/issues"> 2405-45th-St </a>
 <img width="798" alt="image" src="https://user-images.githubusercontent.com/61100293/217858482-0886d55a-a136-45da-bd30-942407ccdb0a.png">.
 
-2. The issue should have a written note or a comment as to which ULAL QR Code it is currently assigned to. 
-3. If you can't find the designated QR Code, then comment on the task to inform the Admin you're working on this issue of integrating. Or you can help by figuring it out yourself and comment the QR Code.
+2. Click on one Issue.
+3. The issue should have a written note or a comment as to which ULAL QR Code or the .html link it is currently assigned to. 
+4. If you can't find the .html link, then comment on the task to inform the Admin you're working on this issue of finding the .html link from ULAL.
+5. Figure out and comment the .html link from <a href="https://github.com/WorldEnterpriseGroup/ulal/tree/gh-pages">ULAL</a> to this Issue.
+6. Copy the link of the issue by,
+
+7. When you know which Issue and which .html link to work on, go back to the .html file
