@@ -19,3 +19,5 @@ ___
 6. If the issue is close then the 100.html file is available to link to another issue.
 
 ### 2. **Link a GitHub Issue** 
+1. Find a property to work on its Issues at https://github.com/orgs/United-Home/repositories . For exampe, <a href="https://github.com/United-Home/2405-45th-St/issues"> 2405-45th-St </a>
+2. 
