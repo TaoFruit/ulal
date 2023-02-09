@@ -1,7 +1,7 @@
 # ulal
 
 ## How to Work on .html Files
-> We have multiple .html files such as 101.html or 103.html and more in this page. Inside each file has a line in the body area that connects to a GitHub issue. The general purpose of this .html file is to link a QR Code to this specific issue. The issues assigned may change by changing the link in the .html file.
+> We have multiple .html files such as 101.html or 103.html and more in this page. Inside each file has a line in the body area that connects to a GitHub issue. The general purpose of this .html file is to link a QR Code to this specific issue. The issues assigned may change by changing the link in the .html file. Make sure to fork this repository before working and do multiple Pull Requests.
 > 
 > This is a sample of how our QR Code tags look like,
 > 
@@ -24,7 +24,7 @@ ___
 4. Open a new tab and paste the link.
 5. Check if the issue in the link is "Close".
 6. If the issue is closed then the 100.html file is available to link to another issue.
-7. If it is open, then move on and find another .html file.
+7. If it is open, then move on and find another .html file and repeat process.
 
 ### 2. **Link a GitHub Issue** 
 1. Find a United Home property to work on its Issues at https://github.com/orgs/United-Home/repositories . For example, the Issues at <a href="https://github.com/United-Home/2405-45th-St/issues"> 2405-45th-St </a>
@@ -40,7 +40,9 @@ ___
 7. Go to the ULAL .html issue and click edit.
 <img width="1580" alt="image" src="https://user-images.githubusercontent.com/61100293/217881237-465714f1-6a58-40a4-aa09-e9ede783eb11.png">
 
-8. Insert this link to the ULAL .html issue body you're working on. There are two areas you're going to paste this link.
-<img width="1265" alt="image" src="https://user-images.githubusercontent.com/61100293/217880781-2365780a-357a-416e-8b77-9fa514d82710.png">
+8. Insert this link to the ULAL .html issue body you're working on. There are two areas you're going to paste this link. Paste it inside the quotations.
+<img width="1268" alt="image" src="https://user-images.githubusercontent.com/61100293/217883169-49deb4dd-dcf5-4b21-8a9c-add39b08cd7a.png">
+
 9. Save Changes.
-10. DONE
+10. DONE.
+
